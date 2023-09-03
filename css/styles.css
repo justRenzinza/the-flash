@@ -1,0 +1,109 @@
+html{
+    font-family: Helvetica;
+    background-color: #000;
+}
+
+.container{
+    max-width: 1100px;
+    background-color: red;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold{
+    font-family: bold;
+}
+
+/* header */
+
+.header{
+    text-align: center;
+    color: yellow;
+}
+
+.main-title{
+    font-size: 40px;
+    color: yellow;
+}
+
+.main-paragraph{
+font-style: italic;
+}
+
+/* imagem destaque */
+
+.featured-image{
+    text-align: center;
+    margin-top: 30px;
+    font-style: bold;
+}
+
+/* biografia */
+
+.biograph-container{
+    padding: 20px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #fff;
+    border-bottom: 1px dashed #fff;
+    color: yellow;
+}
+
+/* quotes */
+
+.quotes-container{
+    background-color: #800000;
+    padding: 30px;
+}
+
+.quotes-container blockquote{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #800000;
+    color: yellow;
+
+}
+
+.quotes-container p{
+    font-style: italic;
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+/* curiosidades */
+
+.curiosities-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #fff;
+    border-bottom: 1px dashed #fff;
+    color: #fff;
+}
+
+.curiosities-container li{
+    height: 30px;
+    color: yellow;
+    font-style: italic;
+}
+
+/* imagem bold */
+
+.img-bold{
+    font-weight: bold;
+    text-align: center;
+    color: yellow;
+}
+
+.italic{
+    font-style: italic;
+    font-weight: bold;
+    color: yellow;
+}
+
+.moreinfo-container h2{
+    color: yellow;
+}
+
+.moreinfo-container{
+    color: white;
+}
